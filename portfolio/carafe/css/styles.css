@@ -44,7 +44,7 @@
   --bs-body-color-rgb: 136, 136, 136;
   --bs-body-bg-rgb: 0, 0, 0;
   --bs-font-sans-serif: "Lato", sans-serif;
-  --bs-font-monospace: "Montserrat", monospace;
+  --bs-font-monospace: "Montserrat", sans-serif;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: "Lato", sans-serif;
   --bs-body-font-size: 1rem;
