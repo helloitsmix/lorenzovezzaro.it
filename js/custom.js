@@ -177,7 +177,7 @@ $(function(){
     /*=========================================================================
      One Page Scroll with jQuery
      =========================================================================*/
-    $('.vertical-menu li a[href^="#"]:not([href="#"]), .mouse-wrapper, .btn-portfolio').on('click', function(event) {
+    $('.vertical-menu li a[href^="#"]:not([href="#"]), .mouse-wrapper, .btn-portfolio, a.to-top').on('click', function(event) {
       var $anchor = $(this);
       $('html, body').stop().animate({
         scrollTop: $($anchor.attr('href')).offset().top
