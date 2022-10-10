@@ -1,3 +1,3 @@
 # My website 🏃🏻‍♂️
 
-[cover image](./img/readme/cover.png)
+![cover image](./img/readme/cover.png)
