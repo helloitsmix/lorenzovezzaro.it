@@ -1,2 +1,3 @@
-# lorenzovezzaro.it
-My website 🏃🏻‍♂️
+# My website 🏃🏻‍♂️
+
+[cover image](./img/readme/cover.png)
